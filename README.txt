@@ -1,3 +1,4 @@
+# CurseForge Link: https://www.curseforge.com/minecraft/mc-mods/st33l-blocks-lamps
 
 Source installation information for modders
 -------------------------------------------
@@ -44,3 +45,4 @@ Community Documentation: https://docs.minecraftforge.net/en/latest/gettingstarte
 LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
 Forge Forums: https://forums.minecraftforge.net/
 Forge Discord: https://discord.minecraftforge.net/
+
